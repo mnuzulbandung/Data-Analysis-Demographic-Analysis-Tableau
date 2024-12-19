@@ -8,4 +8,6 @@ Dashboard dari Tableau dapat membantu menjalankan analisis ini dengan bagan dan 
 Maka dari itu, project ini bertujuan untuk melakukan analisis demografi menggunakan library pandas dan dashboard Tableu. Project ini menggunakan data e-commerce dengan sumber di bawah.
 
 Data: https://www.kaggle.com/datasets/bhavikjikadara/retail-transactional-dataset
+
+
 Dashboard: https://public.tableau.com/app/profile/muhammad.nuzul.mahfiruddin/viz/Book2_17273601233140/Dashboard1?publish=yes
